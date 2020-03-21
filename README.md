@@ -1,8 +1,3 @@
 # spaceShips
-//////////////////////////
 
-SpaceShip - The Python based game.
-
-//////////////////////////////////
-
-Made with python basics.
+simple game wrote with basic Python

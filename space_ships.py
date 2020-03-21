@@ -20,10 +20,6 @@ def random_col(board):
 ship_row = random_row(board)
 ship_col = random_col(board)
 
-##print ship_row
-##print ship_col
-
-
 for turn in range(4):
   print "Turn", turn + 1
   guess_row = int(raw_input("Guess Row: ")) - 1
